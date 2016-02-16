@@ -20,28 +20,19 @@ We are team of three, Vinay Kumar Katakam, Uday Kirshna Reddy Vinjamuri and Akhi
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
 
-VINAY KUMAR KATAKAM
-	
-Data Analysis, Python Scripting	
-Build Scripts
-
-UDAY KIRSHNA REDDY VINJAMURI	
-Python Scripting, Testing of Data
-	
-Test Harness
-
-AKHILA PRIYA CHILUKURI	
-Web API, Data Analysis	
-Development of data, Python
+| vinay kumar katakam | Data Analysis, python Scripting |Build Scripts|
+| uday kirshna reddy vinjamuri |Python Scripting, Testing of data| Test Harness |
+| akhila priya chilukuri | Web API, Data Analysis | Development of data, Python |
 
  
  
 
-DELIVERABLES AND CHECKPOINTS
-Checkpoint Date	02/14/2016
-Checkpoint Deliverable	Using Data in IRS to perform exploratory analysis on Zip code and AGI data.
-Responsible Team Members	VINAY KUMAR, UDAY KIRSHNA REDDY, AKHILA PRIYA
-Checkpoint Results	Checkpoint-1 reached.
+## DELIVERABLES AND CHECKPOINTS
+|Checkpoint Date|	02/14/2016|
+|---------------|-----------------------------------------------------------------------------------|
+|Checkpoint Deliverable|	Using Data in IRS to perform exploratory analysis on Zip code and AGI data.|
+|Responsible Team Members|	VINAY KUMAR, UDAY KIRSHNA REDDY, AKHILA PRIYA|
+|Checkpoint Results|	Checkpoint-1 reached.|
 
 
 
