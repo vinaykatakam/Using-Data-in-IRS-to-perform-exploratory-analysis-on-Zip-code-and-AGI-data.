@@ -20,9 +20,9 @@ We are team of three, Vinay Kumar Katakam, Uday Kirshna Reddy Vinjamuri and Akhi
 | Team member | Roles and skills | Contributions |
 |------------------------------|----------------------------------------|---------------------------------------------|
 
-| vinay kumar katakam | Data Analysis, python Scripting |Build Scripts|
-| #uday kirshna reddy vinjamuri |Python Scripting, Testing of data| Test Harness |
-| #akhila priya chilukuri | Web API, Data Analysis | Development of data, Python |
+| vinay kumar katakam | Data Analysis, python Scripting |Build Scripts.|
+| #uday kirshna reddy vinjamuri |Python Scripting, Testing of data| Test Harness .|
+| #akhila priya chilukuri | Web API, Data Analysis | Development of data, Python .|
 
  
  
