@@ -18,7 +18,7 @@ We are team of three, Vinay Kumar Katakam, Uday Kirshna Reddy Vinjamuri and Akhi
 # PROJECT TEAM, DELIVERABLES AND CHECKPOINTS 
 ## TEAM
 | Team member | Roles and skills | Contributions |
-|-------------|------------------|---------------------------------------------|
+|------------------------------|----------------------------------------|---------------------------------------------|
 
 | vinay kumar katakam | Data Analysis, python Scripting |Build Scripts|
 | uday kirshna reddy vinjamuri |Python Scripting, Testing of data| Test Harness |
